@@ -1,0 +1,4 @@
+datetime
+ultralytics
+opencv-python
+supervision
